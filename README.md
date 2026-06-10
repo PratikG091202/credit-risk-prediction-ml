@@ -1,4 +1,4 @@
-# Credit Risk Analysis
+# Credit Risk Analysis using SVM and XGBoost
 
 This repository contains a machine learning workflow for **credit risk evaluation** and **loan default prediction** (Fully Paid vs. Charged Off).  
 The project leverages a Kaggle dataset (`zaurbegiev/my-dataset`) with **100,514 lending records** and applies systematic data preprocessing, anomaly detection, and model training.
