@@ -1,6 +1,6 @@
 # Credit Risk Analysis
 
-This repository contains a machine learning workflow for **consumer credit risk evaluation** and **loan default prediction** (Fully Paid vs. Charged Off).  
+This repository contains a machine learning workflow for **credit risk evaluation** and **loan default prediction** (Fully Paid vs. Charged Off).  
 The project leverages a Kaggle dataset (`zaurbegiev/my-dataset`) with **100,514 lending records** and applies systematic data preprocessing, anomaly detection, and model training.
 
 ---
